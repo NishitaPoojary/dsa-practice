@@ -1,0 +1,1 @@
+This repository contains my Data Structures and Algorithms practice organised topic-wise with clean and well-commented solutions.
